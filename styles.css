@@ -16,10 +16,6 @@ html {
 	padding: 0;
 	box-sizing: border-box;
 }
-
-
-
-
 /* ********************************** */
 /*             UTILIDADES             */
 /* ********************************** */
@@ -1163,19 +1159,15 @@ h3{
 		padding: 20px;
 	}
 	
-	
 	.content-bannner {
 		display: flex;
 		flex-direction: row; 
 		align-items: center; 
 	}
-	
-	
+
 	.text {
 		flex: 1;
 		padding: 20px;
 		font-size: 16px; 
-	}
-
-	
+	}	
 }
