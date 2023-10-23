@@ -199,8 +199,12 @@ html {
 /* ********************************** */
 /*               INTERNACIONAL               */
 /* ********************************** */
-h3{
-	color: red;
+
+.container-categories .ver{
+	background: red;
+	color: yellow;
+	padding: 3px;
+	border-radius: 10px;
 }
 .category-brasil{
 	background-image: linear-gradient(#00000080, #00000080),
